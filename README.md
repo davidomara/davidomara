@@ -5,13 +5,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=orange)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white) <br> <br>
-🔗 <a href="https://github.com/davidomara" target="_blank" rel="noopener noreferrer">github.com/davidomara</a>
-💼 <a href="https://www.linkedin.com/in/davidomara-dev" target="_blank" rel="noopener noreferrer">linkedin.com/in/davidomara-dev</a>
-📧 <a href="https://nordprojects.vercel.app" target="_blank" rel="noopener noreferrer">Website</a>
----
+![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white) 
 
-## 🚀 Profile
+## 🚀 Profile 🔗 [GitHub](https://github.com/davidomara) · 💼 [LinkedIn](https://www.linkedin.com/in/davidomara-dev) · 🌐 [Website](https://nordprojects.vercel.app)
 
 Junior **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD (GitLab, GitHub Actions), Terraform, AWS, Ansible, and monitoring (Prometheus, Grafana)**.  
 Background in **C# / ASP.NET Core** and systems analysis, enabling smooth collaboration between development and operations.
