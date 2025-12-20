@@ -1,5 +1,6 @@
 # 👋 Nord | Junior DevOps Engineer | .NET Background
 
+![Project Management](https://img.shields.io/badge/Project%20Management-0A66C2?style=for-the-badge&logo=trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=orange)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -12,7 +13,7 @@
 ## 🚀 Profile
 
 Junior **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD (GitLab, GitHub Actions), Terraform, AWS, Ansible, and monitoring (Prometheus, Grafana)**.  
-Background in **C# / ASP.NET Core**, enabling smooth collaboration between development and operations.
+Background in **C# / ASP.NET Core** and systems analysis, enabling smooth collaboration between development and operations.
 
 Focused on **automation, reliability, and production-ready DevOps workflows**.
 ---
