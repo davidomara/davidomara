@@ -8,6 +8,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white) <br> <br>
 🔗 <a href="https://github.com/davidomara">github.com/davidomara</a> 
 💼 <a href="https://www.linkedin.com/in/davidomara-dev">linkedin.com/in/davidomara-dev</a>
+📧 <a href="https://nordprojects.vercel.app">Website</a>
 ---
 
 ## 🚀 Profile
@@ -30,4 +31,3 @@ Focused on **automation, reliability, and production-ready DevOps workflows**.
 
 > ⚡ *Automate, document, and understand what runs in production.* 
 📧 <a href="mailto:davidomara256@gmail.com">davidomara256@gmail.com</a>
-📧 <a href="https://nordprojects.vercel.app">Website</a>
