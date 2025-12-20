@@ -1,5 +1,4 @@
-# 👋 David Omara Owiny
-### Junior DevOps Engineer | Cloud & Automation | .NET Background
+# 👋 David Omara Owiny | Junior DevOps Engineer | .NET Background
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=orange)
@@ -9,13 +8,12 @@
 
 ---
 
-## 🚀 Summary
+## 🚀 Profile
 
-Entry-level **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD, Terraform, Ansible, AWS, and monitoring**.  
-Background in **C# / ASP.NET Core**, enabling strong collaboration between development and operations.
+Junior **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD (GitLab, GitHub Actions), Terraform, AWS, Ansible, and monitoring (Prometheus, Grafana)**.  
+Background in **C# / ASP.NET Core**, enabling smooth collaboration between development and operations.
 
-Focused on **automation, reliability, and real-world DevOps workflows**.
-
+Focused on **automation, reliability, and production-ready DevOps workflows**.
 ---
 
 ## 🛠️ Core Skills
@@ -29,7 +27,6 @@ Focused on **automation, reliability, and real-world DevOps workflows**.
 - **Dev:** C#, ASP.NET Core, REST APIs  
 
 ---
-
 ## 📊 GitHub Stats & Contact
 
 <table align="center">
@@ -45,7 +42,5 @@ Focused on **automation, reliability, and real-world DevOps workflows**.
     </td>
   </tr>
 </table>
-
----
 
 > ⚡ *Automate, document, and understand what runs in production.*
