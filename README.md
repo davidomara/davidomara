@@ -1,4 +1,4 @@
-# 👋 David | Junior DevOps Engineer | .NET Background
+# 👋 Nord | Junior DevOps Engineer | .NET Background
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=orange)
