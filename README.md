@@ -16,7 +16,6 @@ Junior **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD (G
 Background in **C# / ASP.NET Core** and systems analysis, enabling smooth collaboration between development and operations.
 
 Focused on **automation, reliability, and production-ready DevOps workflows**.
----
 
 ## 📊 GitHub Stats & Contact
 
