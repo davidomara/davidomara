@@ -9,106 +9,56 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 Summary
 
-Entry-level **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD pipelines, Infrastructure as Code (Terraform), cloud deployment on AWS, and configuration management with Ansible**.
+Entry-level **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD, Terraform, Ansible, AWS, and monitoring**.  
+Background in **C# / ASP.NET Core**, enabling strong collaboration between development and operations.
 
-Background in **C# / ASP.NET Core development**, enabling strong collaboration between development and operations teams. Passionate about **automation, reliability, and scalable cloud systems**.
-
-Actively building real-world labs and pipelines that mirror production environments.
-
----
-
-## 💼 Core Skills (Recruiter Snapshot)
-
-**DevOps & Cloud**
-- CI/CD pipelines (GitLab CI, GitHub Actions – learning)
-- Docker & containerized applications
-- Terraform (AWS, Docker, Local providers)
-- Ansible (configuration & automation)
-- AWS EC2, SSH, IAM fundamentals
-- Linux system navigation & administration
-
-**Monitoring & Reliability**
-- Prometheus (metrics collection)
-- Grafana (dashboards & visualization)
-- Container & host-level monitoring concepts
-
-**Development Background**
-- C# / ASP.NET Core
-- REST APIs
-- MySQL & PostgreSQL (basic)
-- Environment-based configuration
+Focused on **automation, reliability, and real-world DevOps workflows**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Core Skills
 
-| Category | Tools |
-|------|------|
-| OS | Linux (Ubuntu), Windows |
-| Containers | Docker, Docker Compose |
-| CI/CD | GitLab CI/CD, GitHub Actions |
-| IaC | Terraform |
-| Config Mgmt | Ansible |
-| Cloud | AWS |
-| Monitoring | Prometheus, Grafana |
-| VCS | Git, GitHub, GitLab |
-| Backend | ASP.NET Core, C# |
+- **CI/CD:** GitLab CI/CD, GitHub Actions  
+- **Containers:** Docker, Docker Compose  
+- **Infrastructure:** Terraform (AWS, Docker)  
+- **Configuration:** Ansible  
+- **Cloud:** AWS (EC2, IAM basics)  
+- **Monitoring:** Prometheus, Grafana  
+- **Dev:** C#, ASP.NET Core, REST APIs  
 
 ---
 
-## 📂 Hands-On Projects & Labs
+## 📂 Projects
 
-### 🔹 DevOps Learning Lab
-- Linux CLI & filesystem practice
-- Dockerized applications
-- Multi-stage CI/CD pipelines
-- Infrastructure provisioning with Terraform
-- Ansible-based configuration
-- Monitoring using Prometheus & Grafana
-
-### 🔹 Containerized .NET Application
-- Dockerized ASP.NET Core app
-- CI pipeline to build & push Docker images
-- Deployment to cloud VM
-
-### 🔹 Infrastructure as Code (AWS)
-- EC2 provisioning using Terraform
-- Secure SSH access
-- Separation of infrastructure & configuration layers
-
-> 📌 Repositories reflect **practical DevOps workflows**, not tutorials only.
+- 🔹 DevOps learning labs (Linux, Docker, CI/CD, IaC)
+- 🔹 Dockerized ASP.NET Core application
+- 🔹 AWS EC2 provisioning with Terraform
+- 🔹 Monitoring with Prometheus & Grafana
 
 ---
 
-## 🧠 What I Understand Clearly
+## 📊 GitHub Stats
 
-✔ Code → Git Push → CI Pipeline → Production  
-✔ Why Terraform replaces manual provisioning  
-✔ Why Ansible is applied *after* infrastructure creation  
-✔ Why Docker ensures environment consistency  
-✔ Why monitoring is essential in production  
-✔ How CI/CD reduces deployment risk  
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidomara&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidomara&layout=compact)
 
 ---
 
-## 🎯 Current Focus Areas
+## 📈 Contribution Activity
 
-- AWS services & best practices
-- Advanced CI/CD strategies
-- Secure secrets management (Vault concepts)
-- Scalable monitoring & alerting
-- Production-grade automation
+![GitHub Streak](https://streak-stats.demolab.com?user=davidomara)
 
 ---
 
-## 📫 Contact & Links
+## 📫 Contact
 
-- 🔗 **GitHub:** https://github.com/davidomara  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/davidomara-dev  
-- 📧 **Email:** davidomara256@gmail.com  
+- 🔗 GitHub: https://github.com/davidomara  
+- 💼 LinkedIn: https://www.linkedin.com/in/davidomara-dev  
+- 📧 Email: davidomara256@gmail.com  
 
 ---
 
-> ⚡ *DevOps is not tools — it’s responsibility, automation, and reliability.*
+> ⚡ *Automate, document, and understand what runs in production.*
