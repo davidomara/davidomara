@@ -30,3 +30,4 @@ Focused on **automation, reliability, and production-ready DevOps workflows**.
 
 > ⚡ *Automate, document, and understand what runs in production.* 
 📧 <a href="mailto:davidomara256@gmail.com">davidomara256@gmail.com</a>
+📧 <a href="https://nordprojects.vercel.app">Website</a>
