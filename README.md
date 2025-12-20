@@ -6,9 +6,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white) <br> <br>
-🔗 <a href="https://github.com/davidomara">github.com/davidomara</a> 
-💼 <a href="https://www.linkedin.com/in/davidomara-dev">linkedin.com/in/davidomara-dev</a>
-📧 <a href="https://nordprojects.vercel.app">Website</a>
+🔗 <a href="https://github.com/davidomara" target="_blank" rel="noopener noreferrer">github.com/davidomara</a>
+💼 <a href="https://www.linkedin.com/in/davidomara-dev" target="_blank" rel="noopener noreferrer">linkedin.com/in/davidomara-dev</a>
+📧 <a href="https://nordprojects.vercel.app" target="_blank" rel="noopener noreferrer">Website</a>
 ---
 
 ## 🚀 Profile
