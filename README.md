@@ -1,4 +1,4 @@
-# 👋 Nord | Junior DevOps Engineer | .NET Background
+# 👋 Nord | Senior Software Engineer | .NET Background
 
 ![Project Management](https://img.shields.io/badge/Project%20Management-0A66C2?style=for-the-badge&logo=trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
@@ -9,8 +9,8 @@
 
 ## 🚀 Profile 🔗 [GitHub](https://github.com/davidomara) · 💼 [LinkedIn](https://www.linkedin.com/in/davidomara-dev) · 🌐 [Website](https://nordprojects.vercel.app)
 
-Junior **DevOps Engineer** with hands-on experience in **Linux, Docker, CI/CD (GitLab, GitHub Actions), Terraform, AWS, Ansible, and monitoring (Prometheus, Grafana)**.  
-Background in **C# / ASP.NET Core** and systems analysis, enabling smooth collaboration between development and operations.
+Senior Software Engineer with a strong focus on **DevOps and cloud engineering**, experienced in **Linux, Docker, CI/CD, Terraform, AWS, Ansible, and monitoring**.  
+Background in **C# / ASP.NET Core** and systems analysis, bridging development and operational excellence.
 
 Focused on **automation, reliability, and production-ready DevOps workflows**.
 
