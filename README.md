@@ -14,16 +14,16 @@ Background in **C# / ASP.NET Core** and systems analysis, bridging development a
 
 Focused on **automation, reliability, and production-ready DevOps workflows**.
 
-## 📊 GitHub Stats & Contact
+## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=davidomara&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidomara&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=davidomara&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davidomara&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=davidomara&theme=tokyonight&hide_border=true"/>
+</p>
 
 > ⚡ *Automate, document, and understand what runs in production.* 
 📧 <a href="mailto:davidomara256@gmail.com">davidomara256@gmail.com</a>
