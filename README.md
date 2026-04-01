@@ -19,8 +19,8 @@ Focused on **automation, reliability, and production-ready DevOps workflows**.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=davidomara&show_icons=true" height="160" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidomara&layout=compact" height="160"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=davidomara&show_icons=true&theme=default" height="160" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidomara&layout=compact&theme=default" height="160"/>
     </td>
   </tr>
 </table>
